@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://recipe.devchallenges.io.antoni-dumont.be">
+    <a href="http://recipe.devchallenges.io.antoni-dumont.be">
       Demo
     </a>
     <span> | </span>
